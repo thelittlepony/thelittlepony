@@ -10,7 +10,7 @@ i also work on personal open-source projects:
 
 ### deprecated, but still interesting:
 
-- [OpenGDPS Core](https://github.com/OpenGDPS/core) — open-source Geometry Dash server implementation in Python  
-  Supports 2.11, partially working, but not actively maintained
+- [OpenGDPS Core](https://github.com/thelittlepony/OpenGDPS-Core) — open-source Geometry Dash server implementation in Python  
+  Supports 2.11, partially working, but I don't maintain it.
 - [DragonBot](https://github.com/DragonBot-For-Discord/DragonBot) - open-source bot for Discord servers, implemented in Python  
   I don't maintain it, and it's really, really deprecated (last commit was 4 years ago!), so you can't run it for now (because of Discord API changes)
