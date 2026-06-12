@@ -1,16 +1,14 @@
-## Hi there 👋
+# hi, i'm thelittlepony!
+founder of **tlp.** — a small team building commercial services and tools, including projects like tlp.Proxy (i also know how to use Docker).
 
-<!--
-**thelittlepony/thelittlepony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i also work on personal open-source projects:
 
-Here are some ideas to get you started:
+- [Testboxed Runtime](https://github.com/thelittlepony/Testboxed-Runtime) — open-source standard and runtime for building 2D games  
+  also with [examples](https://github.com/thelittlepony/Testboxed-Examples) of games/demos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Testboxed Controller (wip) — open-source protocol for custom game controllers over Wi-Fi/Ethernet instead of USB HID
+
+### deprecated, but still interesting:
+
+- [OpenGDPS Core](https://github.com/OpenGDPS/core) — open-source Geometry Dash server implementation in Python  
+  Supports 2.11, partially working, but not actively maintained
