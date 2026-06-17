@@ -11,7 +11,8 @@ i also work on personal open-source projects:
 - Testboxed Controller (wip) — open-source protocol for custom game controllers over Wi-Fi/Ethernet instead of USB HID
 
 ### deprecated, but still interesting:
-
+- [PromptBox](https://github.com/thelittlepony/PromptBox) - standard for bots with LLMs, and implementation of that.  
+  if say more simple, it's repository for prompts.
 - [OpenGDPS Core](https://github.com/thelittlepony/OpenGDPS-Core) — open-source Geometry Dash server implementation in Python  
   Supports 2.11, partially working, but I don't maintain it.
 - [DragonBot](https://github.com/DragonBot-For-Discord/DragonBot) - open-source bot for Discord servers, implemented in Python  
