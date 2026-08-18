@@ -6,7 +6,7 @@ i mainly design protocols and software architecture (like choosing dependencies,
 i also work on personal open-source projects:
 - nothing
 
-## recently stopped maintaining
+### recently stopped maintaining
 - [Testboxed Runtime](https://github.com/thelittlepony/Testboxed-Runtime) — open-source standard and runtime for building 2D games  
   also with [examples](https://github.com/thelittlepony/Testboxed-Examples) of games/demos.
 
