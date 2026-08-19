@@ -6,7 +6,9 @@ i mainly design protocols and software architecture (like choosing dependencies,
 for some reason, i prefer calling repos like they're packages for Apple ecosystem (for example - ru.tlpteam.tb.Runtime, ru.thelittlepony.Landing, ProxyService, SunnyService).
 
 i also work on personal open-source projects:
-- nothing currently working on, but scroll down for more
+- ~~nothing currently working on, but scroll down for more~~
+- tlp4re - tools for reverse engineering
+  - [tlp4re.RPGMakerMV](https://github.com/thelittlepony/ru.thelittlepony.tlp4re.RPGMakerMV) - for RPG Maker MV (like OMORI)
 
 ### recently stopped maintaining
 - [Testboxed Runtime](https://github.com/thelittlepony/ru.tlpteam.tb.Runtime) — open-source standard and runtime for building 2D games  
