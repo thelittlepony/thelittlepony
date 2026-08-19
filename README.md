@@ -3,8 +3,10 @@ founder of **tlp.** — a small team building commercial services and tools, inc
 
 i mainly design protocols and software architecture (like choosing dependencies, defining APIs, and implementing clean abstractions)
 
+for some reason, i prefer calling repos like they're packages for Apple ecosystem (for example - ru.tlpteam.tb.Runtime, ru.thelittlepony.Landing, ProxyService, SunnyService).
+
 i also work on personal open-source projects:
-- nothing
+- nothing currently working on, but scroll down for more
 
 ### recently stopped maintaining
 - [Testboxed Runtime](https://github.com/thelittlepony/Testboxed-Runtime) — open-source standard and runtime for building 2D games  
