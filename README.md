@@ -9,8 +9,8 @@ i also work on personal open-source projects:
 - nothing currently working on, but scroll down for more
 
 ### recently stopped maintaining
-- [Testboxed Runtime](https://github.com/thelittlepony/Testboxed-Runtime) — open-source standard and runtime for building 2D games  
-  also with [examples](https://github.com/thelittlepony/Testboxed-Examples) of games/demos.
+- [Testboxed Runtime](https://github.com/thelittlepony/ru.tlpteam.tb.Runtime) — open-source standard and runtime for building 2D games  
+  also with [examples](https://github.com/thelittlepony/ru.tlpteam.tb.Runtime.Examples) of games/demos.
 
 - [tlp. Bot](https://github.com/thelittlepony/TlpBot) - open-source Discord bot with LLM, and deep integration with services
 
