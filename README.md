@@ -19,6 +19,7 @@ i also work on personal open-source projects:
 - Testboxed Controller (wip) — open-source protocol for custom game controllers over Wi-Fi/Ethernet instead of USB HID
 
 ### deprecated, but still interesting:
+- [Testboxed-Unity](https://github.com/thelittlepony/Testboxed-Unity) - sandbox game, made with unity
 - [tlpinfra-legacy](https://github.com/thelittlepony/ru.tlpteam.tlpinfra-legacy) - microservices, made by myself, deprecated because i don't want to maintain this
 - [PromptBox](https://github.com/thelittlepony/PromptBox) - standard for bots with LLMs, and implementation of that.  
   if say more simple, it's repository for prompts.
